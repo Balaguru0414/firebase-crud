@@ -1,4 +1,3 @@
 ## Firebase CRUD
 
-## Live demo : 
- - [https://crud-bg.netlify.app/]
+ - Live demo[https://crud-bg.netlify.app/]
